@@ -1,0 +1,12 @@
+C:\Users\ibrahim.kaya\source\repos\Car\Car\bin\Debug\Car.exe.config
+C:\Users\ibrahim.kaya\source\repos\Car\Car\bin\Debug\Car.exe
+C:\Users\ibrahim.kaya\source\repos\Car\Car\bin\Debug\Car.pdb
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.FrmAdd.resources
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.FrmLogin.resources
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.Properties.Resources.resources
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.csproj.GenerateResource.cache
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.exe
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.pdb
+C:\Users\ibrahim.kaya\source\repos\Car\Car\obj\Debug\Car.FrmList.resources
